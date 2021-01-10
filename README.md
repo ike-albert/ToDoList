@@ -35,7 +35,8 @@ GIF created with [Recordit](https://recordit.co/).
 
 Describe any challenges encountered while building the app.
 
-My app froze sometimes, but I found out it was because of an error in MainActivity.java
+- My app froze sometimes, but I found out it was because of an error in MainActivity.java
+- When creating the app gif, I tried using LiceCap, but I was not able to get a url to share. I ended up using Recordit instead. 
 
 ## License
 
